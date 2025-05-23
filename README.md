@@ -2,4 +2,4 @@
 -  Some of the coding languages I know include beginner C++, intermediate Python, advanced Java, and finally intermediate HTML, CSS, PHP, SQL, Javascript and Ajax
 -  I’m currently studying at Univeristy of Maryland, Baltimore County for a Bachelors Degree in Information Systems with a minor in Management. 
 -  You can reach me at my email, jaspercavin@gmail.com
--  Look forward to amny new coding projects!
+-  Look forward to many new coding projects!
